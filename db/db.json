@@ -1,0 +1,222 @@
+{
+  "users": [
+    {
+      "email": "tra@gmail.com",
+      "password": "1234",
+      "name": "Trà",
+      "phone": "6263231239",
+      "role": "user",
+      "id": 3,
+      "gender": "Male",
+      "birthDay": "27/05/2021"
+    },
+    {
+      "email": "quangtra000@gmail.com",
+      "password": "123",
+      "name": "QT",
+      "phone": "0967794663",
+      "role": "admin",
+      "id": 4,
+      "gender": "Male",
+      "birthDay": ""
+    },
+    {
+      "email": "tradq@gmail.com",
+      "password": "123",
+      "name": "Trà Dương",
+      "phone": "0967794663",
+      "role": "user",
+      "id": 8
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Voi",
+      "categoryId": 1,
+      "img": [
+        "http://media.doisongphapluat.com/412/2015/7/16/voi-bi-cua-trom-nga.JPG"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Sư tử",
+      "categoryId": 1,
+      "img": [
+        "http://vietmytravel.com.vn/wp-content/uploads/2018/01/kki-400x400.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Hổ",
+      "categoryId": 1,
+      "img": [
+        "https://i.pinimg.com/originals/70/13/14/7013140e895b734696b2624ed63f350e.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Nhím",
+      "categoryId": 1,
+      "img": [
+        "https://cdn.vatgia.vn/pictures/thumb/0x0/2013/07/omp1372662313.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Ngựa",
+      "categoryId": 1,
+      "img": [
+        "http://anhnendep.net/wp-content/uploads/2016/04/hinh-nen-ngua-horse-dep-cho-may-tinh-info.jpg"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Hươu cao cổ",
+      "categoryId": 1,
+      "img": [
+        "https://khamphadulichviet.com.vn/Uploads/28/images/DU%20L%E1%BB%8ACH%20QU%E1%BB%90C%20T%E1%BA%BE/Kenya/Tsavo4.jpg"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Tê giác",
+      "categoryId": 1,
+      "img": [
+        "http://anhnendep.net/wp-content/uploads/2016/04/hinh-nen-ngua-horse-dep-cho-may-tinh-info.jpg"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Hà mã",
+      "categoryId": 1,
+      "img": [
+        "https://khamphadulichviet.com.vn/Uploads/28/images/DU%20L%E1%BB%8ACH%20QU%E1%BB%90C%20T%E1%BA%BE/Kenya/Tsavo3.jpg"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Báo đốm",
+      "categoryId": 1,
+      "img": [
+        "http://1.bp.blogspot.com/-LvUG9FG3jgU/TYGAE7g2K-I/AAAAAAAAArA/qQmCh2qxgdw/s1600/jaguar-panthera-onca-thumb3688018.jpg"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Ngựa vằn",
+      "categoryId": 1,
+      "img": [
+        "https://khamphadulichviet.com.vn/Uploads/28/images/DU%20L%E1%BB%8ACH%20QU%E1%BB%90C%20T%E1%BA%BE/Kenya/Maasai%20Mara.jpg"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Lợn rừng",
+      "categoryId": 1,
+      "img": [
+        "https://lh3.googleusercontent.com/proxy/_2FGUB4q1hDj4OGhH8OHXU-Una0VXkycBjbC7y9jOf-3ZXPOSqjpU9BwGu2P9AGSzFmFLRdrsqPHUPYMvW6Uz-IIDdlGFWMy7y6Wwzc-LO-KRUuXK6olKILyigXBXbKa1Wq75HTWVyCzyT8QOVDudRVwYcZ-47ebn4qG-AY"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Nai",
+      "categoryId": 1,
+      "img": [
+        "https://lh3.googleusercontent.com/proxy/k3yqFV1hLGs9mElkCBI__HXz1anPuPPTxpKmwaeFLN8PVHAopUl0ZnctEUfHyDzVqWkVV98kmiv59DJ-SPBbpotTG01it1poQN5b_AmaCTJAiKvwX9l2-CtIJn-IQKq7mtMRn1LTSMLZ_XCgUd4SjCq7uzWlcGaPsCUYoTUl"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Cá mập",
+      "categoryId": 2,
+      "img": [
+        "https://media.cdnandroid.com/item_images/521006/imagen-sharks-live-wallpaper-8gal.jpg"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Cá heo",
+      "categoryId": 2,
+      "img": [
+        "https://sohot.vn/uploads/market/thumb/41/413/4136-5f0eaecdb0644.jpg"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Cá voi",
+      "categoryId": 2,
+      "img": [
+        "https://medisf.traasgpu.com/ifis/cb6b61beafde2ead.jpg"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Bạch tuộc",
+      "categoryId": 2,
+      "img": [
+        "https://i.pinimg.com/474x/1f/95/e5/1f95e5d7cb47de2089796213e6c324d1.jpg"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Rùa biển",
+      "categoryId": 2,
+      "img": [
+        "http://pngimg.com/uploads/turtle/turtle_PNG27.png"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Sứa",
+      "categoryId": 2,
+      "img": [
+        "https://genk.mediacdn.vn/2013/4-39b49.jpg"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Mực",
+      "categoryId": 2,
+      "img": [
+        "https://bienvanguoi.files.wordpress.com/2011/09/3-berrys-bobtail-squid.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Tôm",
+      "categoryId": 2,
+      "img": [
+        "https://drtom.vn/wp-content/uploads/2019/05/ky-thuat-nuoi-tom-hum-4-400x400.jpg"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Cua",
+      "categoryId": 2,
+      "img": [
+        "https://kenh14cdn.com/2019/2/20/ezgif-3-4265b2776015-15506520160511368099570.gif.png"
+      ]
+    }
+    
+    
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Trên cạn",
+      "status": "on"
+    },
+    {
+      "id": 2,
+      "name": "Dưới nước",
+      "status": "on"
+    },
+    {
+      "id": 3,
+      "name": "Chim",
+      "status": "off"
+    }
+  ]
+}
+  
